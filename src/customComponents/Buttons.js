@@ -5,7 +5,7 @@ class Buttons extends Component{
 		return(
 			<div className="col-sm-12 buttons">
 				<div className="col-sm-4">
-					<button className="btn btn-danger">Deal</button>
+					<button onClick={this.props.deal} className="btn btn-danger">Deal</button>
 				</div>
 				<div className="col-sm-2">
 					<button className="btn btn-danger">Bet 10</button>
