@@ -7,3 +7,9 @@
   min-width: 179px;
   /* background: url('/cards/deck.png'); */
 }
+
+.the-pot{
+  font-size: 60px;
+  text-align: center;
+  color: white;
+}
