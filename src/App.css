@@ -5,5 +5,5 @@
 .card{
   min-height: 249px;
   min-width: 179px;
-  background: url('/cards/deck.png');
+  /* background: url('/cards/deck.png'); */
 }
